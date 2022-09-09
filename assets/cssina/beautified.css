@@ -145,6 +145,13 @@ caption {
 	text-align: left
 }
 
+iconz {
+    font-size: 55px;
+    margin-bottom: 1rem;
+    color: #f99245;
+    !important: ;
+}
+
 [role=button] {
 	cursor: pointer
 }

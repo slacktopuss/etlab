@@ -1,0 +1,22 @@
+{
+  "name": "your_name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-postcss": "^8.0.0"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^4.0.0",
+    "gulp-uncss": "^1.0.6",
+    "postcss-uncss": "^0.16.1"
+  }
+}

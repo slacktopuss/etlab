@@ -1,0 +1,192 @@
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-BlackItalic.eot');
+    src: url('webfonts/subset-ALSAhner-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-BlackItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-BlackItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-BoldItalic.eot');
+    src: url('webfonts/subset-ALSAhner-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-BoldItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-BoldItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner Hairline';
+    src: url('webfonts/subset-ALSAhner-Hairline.eot');
+    src: url('webfonts/subset-ALSAhner-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Hairline.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Hairline.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner Book';
+    src: url('webfonts/subset-ALSAhner-BookItalic.eot');
+    src: url('webfonts/subset-ALSAhner-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-BookItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-BookItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-Black.eot');
+    src: url('webfonts/subset-ALSAhner-Black.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Black.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Black.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner Book';
+    src: url('webfonts/subset-ALSAhner-Book.eot');
+    src: url('webfonts/subset-ALSAhner-Book.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Book.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Book.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-Bold.eot');
+    src: url('webfonts/subset-ALSAhner-Bold.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Bold.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Bold.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner Hairline';
+    src: url('webfonts/subset-ALSAhner-HairlineItalic.eot');
+    src: url('webfonts/subset-ALSAhner-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-HairlineItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-HairlineItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-HairlineItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-Thin.eot');
+    src: url('webfonts/subset-ALSAhner-Thin.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Thin.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Thin.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-Light.eot');
+    src: url('webfonts/subset-ALSAhner-Light.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Light.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Light.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-Medium.eot');
+    src: url('webfonts/subset-ALSAhner-Medium.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Medium.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Medium.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-LightItalic.eot');
+    src: url('webfonts/subset-ALSAhner-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-LightItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-LightItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-RegularItalic.eot');
+    src: url('webfonts/subset-ALSAhner-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-RegularItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-RegularItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-ThinItalic.eot');
+    src: url('webfonts/subset-ALSAhner-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-ThinItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-ThinItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-MediumItalic.eot');
+    src: url('webfonts/subset-ALSAhner-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-MediumItalic.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-MediumItalic.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Ahner';
+    src: url('webfonts/subset-ALSAhner-Regular.eot');
+    src: url('webfonts/subset-ALSAhner-Regular.eot?#iefix') format('embedded-opentype'),
+        url('webfonts/subset-ALSAhner-Regular.woff2') format('woff2'),
+        url('webfonts/subset-ALSAhner-Regular.woff') format('woff'),
+        url('webfonts/subset-ALSAhner-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

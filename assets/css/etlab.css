@@ -52,6 +52,32 @@
 	}
 }
 
+.has-fixed.is-shrink .header-main {
+    padding: 8px 0;
+}
+
+.has-fixed:not(.is-dark) .header-main {
+    background: #fff;
+}
+
+.has-fixed .header-main {
+    position: fixed !important;
+    box-shadow: 0 0 20px 0 rgba(91, 83, 162, 0.08);
+}
+
+.is-transparent .header-main {
+    position: absolute !important;
+}
+
+.header-main {
+    padding: 20px 0;
+}
+
+.header-main {
+    padding: 12px 0;
+    transition: all .4s;
+}
+
 body {
 	margin: 0;
 	font-family: var(--bs-font-sans-serif);
